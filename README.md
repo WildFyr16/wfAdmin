@@ -4,17 +4,12 @@
     </p>
     <p align="center">
         In 2019 <b>txAdmin</b> was created, with the objective of making FiveM server management accessible to everyone – no matter their skill level! <br/>
-        Today, <b>txAdmin</b> is <i>the</i> <b>full featured</b> web panel & in-game menu to Manage & Monitor your FiveM/RedM Server, in use by over <strong>29.000</strong> servers worldwide at any given time!
+        Sometime around 2021 <b>txAdmin</b> was integrated with of fxserver, <i>the</i> <b>full featured</b> web panel & in-game menu to Manage & Monitor your FiveM/RedM Server, in use by over <strong>29.000</strong> servers worldwide at any given time! <br/>
+        Then in 2025 <b>txAdmin</b> was merged with CFX and Rockstar. Rockstar has already fucked up CFX and FiveM/RedM enough so as a precaution WildFyr has hard forked txAdmin to <b>wfAdmin</b>. I do not know what I will do with it if anything, but the fork exists incase I do.
     </p>
     <p align="center">
-        Join our Discord Server: &nbsp; <a href="https://discord.gg/AFAAXzq"><img src="https://discordapp.com/api/guilds/577993482761928734/widget.png?style=shield"></img></a>
+        Join our Discord Server: &nbsp; <a href="https://discord.gg/AFAAXzq"><img src="https://discordapp.com/api/guilds/289943747427565568/widget.png?style=shield"></img></a>
     </p>
-    <p align="center">
-        <a href="https://zap-hosting.com/txadmin4" target="_blank" rel="noopener">
-            <img src="docs/zaphosting.png" alt="zap-hosting"></img>
-        </a>
-    </p>
-</p>
 
 ## Main Features
 - Recipe-based Server Deployer: create a server in under 60 seconds! ([docs/recipe.md](docs/recipe.md))
